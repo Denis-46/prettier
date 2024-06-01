@@ -1,4 +1,4 @@
----
+d---
 id: configuration
 title: Configuration File
 ---
